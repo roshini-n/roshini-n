@@ -1,4 +1,4 @@
-## Hi there this is NAGURU ROSHINI
+## Hi there <img src="https://media1.giphy.com/media/kKEfeS1dvieRHLtzo0/giphy.gif" width="60px">
 
 **👨‍💻 About Me:**
 - I have a BTech degree in Computer Science and Engineering.
