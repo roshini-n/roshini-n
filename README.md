@@ -17,6 +17,7 @@
 
 **📫 How to reach me:**
 - LinkedIn: [https://www.linkedin.com/in/roshini-naguru-b2a4b6217/]
+- portfolio: [https://roshininaguru-portfolio.vercel.app/]
 
 **⚡ Fun fact:**
 - I enjoy learning new technologies and applying them to real-world problems!
