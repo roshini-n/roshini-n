@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media1.giphy.com/media/kKEfeS1dvieRHLtzo0/giphy.gif" width="60px">
 
-# Hi, I’m Roshini Naguru
+# I’m Roshini Naguru
 
  **Data Analyst | Machine Learning | BI & Analytics**  
 📍 Chicago, IL  
@@ -24,7 +24,7 @@ I’m a **data analyst with 4+ years of experience** transforming complex datase
 
 ## Technical Skills
 
-### 📈 Data Analysis & Databases
+### Data Analysis & Databases
 - **SQL** (PostgreSQL, MySQL, MongoDB)
 - **Python**, R (basic)
 - Data Cleaning, ETL, Feature Engineering
@@ -86,7 +86,7 @@ I’m a **data analyst with 4+ years of experience** transforming complex datase
 
 ---
 
-### 🌾 Crop Price Prediction Using Machine Learning (Published)
+### Crop Price Prediction Using Machine Learning (Published)
 **Python | Scikit-learn | Numpy | Scikit-learn | Linear, Ridge, and Lasso regression**
 
 - Built ML models using Pandas, NumPy, and Scikit-learn
@@ -123,11 +123,11 @@ I’m a **data analyst with 4+ years of experience** transforming complex datase
 
 ---
 
-**📫 How to reach me:**
+**How to reach me:**
 - LinkedIn: [https://www.linkedin.com/in/roshininaguru]
 - portfolio: [https://roshininaguru.vercel.app/]
 
 ⭐ *If you like my work, feel free to star a repo or connect with me!*
 
-**⚡ Fun fact:**
+**Fun fact:**
 - I enjoy learning new technologies and applying them to real-world problems!
